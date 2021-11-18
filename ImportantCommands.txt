@@ -1,0 +1,13 @@
+#Git
+git init
+git clone <link>
+git status
+git add .
+git commit -m "Comment"
+git push origin main
+
+#React Native
+npw react-native init <projectName>
+
+#Typescript
+ts-node-dev
